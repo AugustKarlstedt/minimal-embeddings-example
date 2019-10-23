@@ -1,5 +1,10 @@
 # Minimal embeddings example
 ## with TensorFlow and the iris dataset
 #### by August Karlstedt
-todo: write
+
+Frames generated with:
+ffmpeg -i %d.png out.webm
+ffmpeg -i out.webm out.gif
+
+![learned embedding](frames/out.gif)
 
